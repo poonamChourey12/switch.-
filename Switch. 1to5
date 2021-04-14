@@ -1,0 +1,21 @@
+#include<studio.h>
+int main()
+{
+Printf("pick an item:\n1,pizza\n2,burger\n3,frenchfries\n4,sandwich");
+ Int choice=0;
+Scanf("%d",&choice);
+Switch(condition)
+{
+Case1:printf("you pick pizza,Rs235");
+Break;
+Case2:printf("you pick burger,Rs129");
+Break;
+Case3:printf("you pick pasta,Rs179");
+Break;
+Case4:print("you pick Frenchfries,Rs99");
+Break;
+Case5:printf("you pick sandwich,Rs149");
+Break;
+Default:prinf("invalid choice");
+}
+}
